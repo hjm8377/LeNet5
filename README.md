@@ -1,2 +1,3 @@
 # LeNet5
-Implementation of LeNet-5 from Gradient-Based Learning Applied to Document Recognition(1998, LeCun) using PyTorch
+### 정리: 
+https://velog.io/@hjm331/LeNet-5-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC
